@@ -1,0 +1,11 @@
+---
+# Elementos Pages
+
+#Busca:
+busca: '#productFilter'
+ordenar: '#order'
+filtroHospital: '#hospitalFilter'
+resultadoBusca: 'div[data-testid="productCard"] div span'
+dropdownItemBusca: 'div[data-testid="dropdownItem"]'
+
+
