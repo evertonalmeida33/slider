@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'byebug'
+gem 'capybara', '~> 3.29'
+gem 'cucumber', '5.2'
+gem 'dotenv', '2.7'
+gem 'pry', '0.12.2'
+gem 'pry-nav'
+gem 'pry-remote'
+gem 'report_builder'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'touch_action'
